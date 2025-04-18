@@ -21,7 +21,7 @@ python3 -m gtest.toolbox.binary_utilities.cuda.parse_sass
 
 The evaluation result below demonstrate the average mutation scores during the fuzzing process of the examle CUDA sources.
 
-[](./docs/result_1.png)
+![](./docs/result_1.png)
 
-[](./docs/result_2.png)
+![](./docs/result_2.png)
 
